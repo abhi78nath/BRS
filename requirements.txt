@@ -1,4 +1,9 @@
 Flask
 numpy
+<<<<<<< HEAD
 pandas==1.5.2
 Gunicorn
+=======
+pandas
+Gunicorn
+>>>>>>> e61f35cf7ee1dd10cde447ba0ee00cbd326c90ac
