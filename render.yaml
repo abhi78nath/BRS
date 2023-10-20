@@ -1,0 +1,5 @@
+services:
+  - name: web
+    type: web
+    buildCommand: python3.8 app.py
+    pythonVersion: 3.9
